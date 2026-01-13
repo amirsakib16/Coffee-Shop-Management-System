@@ -36,7 +36,7 @@ A robust, lightweight POS (Point of Sale) and Menu Management system. This appli
 
 1. **Clone the Repository:**
     ```bash
-    git clone [https://github.com/amirsakib16/Restaurant-Management-System.git](https://github.com/amirsakib16/Restaurant-Management-System.git)
+    git clone [https://github.com/amirsakib16/Coffee-Shop-Management-System.git](https://github.com/amirsakib16/Coffee-Shop-Management-System.git)
     ```
 
 2. **Install Dependencies:**
