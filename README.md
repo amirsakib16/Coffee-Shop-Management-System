@@ -9,7 +9,14 @@ A robust, lightweight POS (Point of Sale) and Menu Management system. This appli
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
   <br />
-  <img src="https://img.shields.io/badge/status-active-brightgreen?style=flat-square" alt="Status" />
+  
+  <p align="center">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Badge" />
+  <br />
+  <a href="https://coffee-shop-sigma-taupe.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/live_demo-online-brightgreen?style=flat-square" alt="Live Demo" />
+  </a>
+</p>
 </p>
 
 ---
